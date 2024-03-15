@@ -3,6 +3,7 @@
 
 #include "Graphics.h"
 #include "DataFormat.h"
+#include "RenderTexture.hpp"
 
 namespace CppChart
 {

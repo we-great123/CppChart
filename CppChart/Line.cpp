@@ -1,7 +1,8 @@
 #include <sstream>
 #include <iomanip>
-
+#include <vector>
 #include "Line.h"
+#include  "ConvexShape.hpp"
 
 namespace CppChart
 {

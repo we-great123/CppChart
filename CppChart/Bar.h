@@ -1,6 +1,7 @@
 #ifndef BAR_H
 #define BAR_H
-
+#include<vector>
+#include "RectangleShape.hpp"
 #include "Chart.h"
 
 namespace CppChart

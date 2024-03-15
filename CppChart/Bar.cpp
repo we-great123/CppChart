@@ -1,9 +1,9 @@
 #include <sstream>
 #include <iomanip>
-
 #include "Bar.h"
 #include "ChartUtil.h"
 #include <cassert>
+#include <vector>
 
 namespace CppChart
 {

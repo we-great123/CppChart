@@ -1,9 +1,10 @@
 #ifndef CHART_H
 #define CHART_H
-#define _CRT_SECURE_NO_WARNINGS
 
 #include "Graphics.h"
 #include "GraphLegend.h"
+#include "Text.hpp"
+#include "RenderWindow.hpp"
 
 namespace CppChart
 {

@@ -1,4 +1,5 @@
 #include "Graphics.h"
+#include "RenderTarget.hpp"
 
 namespace CppChart
 {

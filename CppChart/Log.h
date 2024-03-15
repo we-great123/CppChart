@@ -1,9 +1,8 @@
 #ifndef LOG_H
 #define LOG_H
-
 #include <string>
 #include <iostream>
-#include <SFML/Graphics.hpp>
+#include "RectangleShape.hpp"
 
 inline void Log(std::string str)
 {

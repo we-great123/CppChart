@@ -1,8 +1,9 @@
 #include <thread>
-
 #include "Chart.h"
 #include "Bar.h"
 #include "Line.h"
+#include <vector>
+#include "Event.hpp"
 
 void DrawOnScreen(CppChart::Chart*);
 void ChartTest();

@@ -1,4 +1,5 @@
 #include "Chart.h"
+#include "Sprite.hpp"
 
 namespace CppChart
 {

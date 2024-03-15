@@ -1,8 +1,9 @@
 #ifndef GRAPHICS_H
 #define GRAPHICS_H
 
-#include "SFML/Graphics.hpp"
 #include "Log.h"
+#include "Text.hpp"
+#include "CircleShape.hpp"
 
 namespace CppChart
 {

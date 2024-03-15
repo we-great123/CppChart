@@ -1,5 +1,4 @@
 #include "ChartUtil.h"
-
 namespace CppChart
 {
 	unsigned int CountDigit(float val)

@@ -1,6 +1,5 @@
 #ifndef LINE_H
 #define LINE_H
-
 #include "Chart.h"
 
 namespace CppChart
